@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://stakepool.at/apple-icon-60x60.png",
+    "url_png_logo": "",
+    "location": "Canada",
+    "social": {
+      "twitter_handle": "EKTRP_Stakepool",
+      "telegram_handle": "EKTRP_Stakepool",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": {
+    "0": "Ektropy_Daniel"
+  },
+  "my-pool-ids": {
+    "0": "71a659c3e71b0ddd0cf9a67bdb3f7fd656934c4a995801ee0ea4c482"
+  },
+  "when-satured-then-recommend": {
+    "0": ""
+  }
+}
