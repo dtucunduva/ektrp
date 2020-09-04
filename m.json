@@ -2,6 +2,5 @@
   "name": "Ektropy",
   "description": "A stakepool operated by Daniel-Tucunduva",
   "ticker": "EKTRP",
-  "homepage": "https://ektrp.com",
-  "extended": "https://raw.githubusercontent.com/dtucunduva/ektrp/master/e.json"
+  "homepage": "https://ektrp.com"
 }
